@@ -1,0 +1,9 @@
+Field Name,Type,Description
+artist location,string,location name
+artist name,string,artist name
+artist longitude,float,longitude
+artist latitude,float,latitude
+similar artists,array string,Echo Nest artist IDs (sim. algo. unpublished)
+song id,string,Echo Nest song ID
+title,string,song title
+year,int,song release year from MusicBrainz or 0
