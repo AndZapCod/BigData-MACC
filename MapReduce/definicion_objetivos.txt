@@ -1,0 +1,14 @@
+Primer objetivo de información:
+
+Generar una vista que relacione a cada usuario con la cantidad de tweets de
+cada tipo que utiliza. (grafico obj1.png)
+
+Segundo objetivo de información:
+
+Generar una vista que refleje la cantidad de veces que se utilizó una palabra
+en cada uno de los tipos de tweets (grafico obj2.png)
+
+Tercer objetivo de información:
+
+Generar una vista que contenga informacion de la cantidad y el tipo de tweets
+que son publicados diariamente. (grafico obj3.png)
